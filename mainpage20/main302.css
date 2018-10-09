@@ -1,0 +1,14 @@
+p{text-align: center;
+	font-family: "helvetica";
+	font-size: 2em;
+	font-weight: 350;
+	font-style: italic;
+	line-height: 30px;
+	text-transform: normal;
+
+	color: gold;
+	
+	opacity: 0.5;
+
+}
+body{background-color: gray;}
