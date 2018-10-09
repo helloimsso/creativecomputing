@@ -1,0 +1,24 @@
+p{
+	text-align:right;
+	font-family: "marker felt";
+	font-size: 80px;
+	font-weight: 350;
+	font-style: noraml;
+	line-height: 90px;
+	text-transform: italic;
+
+	color: #FFD54F;
+	background-color: rgba(255,0,0,0.5)a;
+	opacity: 70;
+	text-decoration-line: normal;
+	text-decoration-color: blue
+	text-decoration-style: double;
+	font-stretch: extra-condensed;
+	column-count: 1
+	
+
+  }
+  body{
+  	background-color: #607D8B  ;
+  }
+a {color:#424242  ;}

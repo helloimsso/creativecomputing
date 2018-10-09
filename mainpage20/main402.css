@@ -1,0 +1,21 @@
+p{
+	text-align: center;
+	font-family: "copperplate";
+	font-size: 25px;
+	font-weight: 350;
+	font-style: bold;
+	line-height: 30px;
+	text-transform: normal;
+
+	color: #E8EAF6;
+	background-color: rgba(255,0,0,0.5)a;
+	opacity: 0.5;
+	text-decoration-line: underline;
+	text-decoration-style: double;
+	font-stretch: ultra-expanded;
+	text-decoration-color: #D81B60  ;
+	column-count: 2
+
+}
+
+	body{background-color:#F9A825;}

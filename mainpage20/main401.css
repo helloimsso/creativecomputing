@@ -1,0 +1,18 @@
+p{
+	text-align: center;
+	font-family: "FranklinGothic URW comp";
+	font-size: 12px;
+	font-weight: 350;
+	font-style: italic;
+	line-height: 18px;
+	text-transform: uppercase;
+
+	color: rgb(255,100,0);
+	background-color: rgba(255,0,0,0.5)a;
+	opacity: 0.5;
+	text-decoration-line: underline;
+	text-decoration-style: wavy;
+	font-stretch: expanded;
+}
+
+	body{background-image: url(https://i.pinimg.com/564x/99/18/10/991810af8bbb4d055af5429e612829d3.jpg);}
