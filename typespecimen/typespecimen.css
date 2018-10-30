@@ -582,6 +582,47 @@ h5{
   50% { border-color: white; }
 }*/
 
+.last1{font-family:'Merriweather Sans', serif;
+	font-style: italic;
+	font-weight:700;
+	font-size: 20px;
+
+}
+
+.last2{font-family:'Merriweather Sans', serif;
+	/*font-style: italic;*/
+	font-weight:900;
+	font-size: 44px;
+
+}
+
+.last3{font-family:'Merriweather Sans', serif;
+	/*font-style: italic;*/
+	font-weight:300;
+	font-size: 60px;
+
+}
+
+.list1{font-family:'Merriweather Sans', serif;
+	font-style: italic;
+	font-weight:700;
+	font-size: 20px;
+
+}
+
+.list2{font-family:'Merriweather Sans', serif;
+	font-style: italic;
+	font-weight:700;
+	font-size: 20px;
+
+}
+
+.list3{font-family:'Merriweather Sans', serif;
+	font-style: italic;
+	font-weight:700;
+	font-size: 20px;
+
+}
 
 
   
