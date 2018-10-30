@@ -1,7 +1,7 @@
 h1 {font-family:'Merriweather Sans', serif;
 	font-style:italic;
 	font-weight:700;
-	font-size: 6.5vw;
+	font-size: 6vw;
 	text-transform: uppercase;
 	color:white;
 	}
@@ -526,7 +526,7 @@ h4{
   height: 200px;
   text-align: center;
   padding-top: 100px;
-  top: 2500px;
+  top: 2520px;
     right: 300px;
   position:absolute;
   transition-property: background-color;
