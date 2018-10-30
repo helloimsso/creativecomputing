@@ -1,0 +1,155 @@
+body{
+	background-color:#FEF9E7;
+}
+
+.title{
+	font-size: 42px;
+  	font-family: helvetica;
+  	font-style: bold;
+  	margin:20px;
+  	color:darkgray ;
+}
+
+ .container{
+     /* display:grid;
+      grid-gap:50px;
+      padding:100px;
+      background-color:#FEF9E7;*/
+      width:1000px; 
+      height:1000px;
+      
+      margin:0 auto;
+     
+    }
+
+
+ .item1{
+ 	height:10px;
+width :400px;
+float:left;
+padding:40px;
+margin:10px;
+background-color: #D7BDE2 ;
+
+ 	/*width: 500px;
+      height: 70px;
+      background: #D7BDE2  ;
+      margin-left: 20px;
+      margin-right: 20px;*/
+
+    
+ }
+
+ .item2{
+ 	/*width: 500px;
+      height: 70px;
+      background: #D7BDE2  ;
+      margin-left: 20px;
+      margin-right: 20px;*/
+      
+ 	height:10px;
+		width :400px;
+		float:left;
+		padding:40px;
+		margin:10px;
+		background-color: #D7BDE2 ;
+		   
+ }
+
+ .item3{
+ 	 	height:10px;
+		width :400px;
+		float:left;
+		padding:40px;
+		margin:10px;
+		background-color: #D7BDE2 ;
+ }
+ 
+ .item4{
+ 	 	height:10px;
+		width :400px;
+		float:left;
+		padding:40px;
+		margin:10px;
+		background-color: #D7BDE2 ;
+ }
+
+ .item5{
+ 	 	height:10px;
+		width :400px;
+		float:left;
+		padding:40px;
+		margin:10px;
+		background-color: #D7BDE2 ;
+ }
+
+.item6{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+}
+
+.item7{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+
+}
+
+.item8{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+	
+}
+
+.item9{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+	
+}
+
+.item10{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+	
+}
+
+.item11{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+	
+}
+
+.item12{
+	height:10px;
+	width :400px;
+	float:left;
+	padding:40px;
+	margin:10px;
+	background-color: #D7BDE2 ;
+	
+}
+
+

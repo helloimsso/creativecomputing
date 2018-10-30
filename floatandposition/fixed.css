@@ -1,0 +1,61 @@
+#square1{
+	position:fixed;
+	width: 200px;
+    height: 120px;
+    
+    background:gold;
+    top: 100px;
+    left: 50px;
+
+}
+
+#square2{
+	position:fixed;
+	width: 200px;
+    height: 30px;
+    
+    background:gold;
+    left: 500px;
+    bottom: 30px;
+}
+
+#square3{
+	position:fixed;
+	width: 200px;
+    height: 30px;
+    
+    background:gold;
+    right: 300px;
+    bottom: 200px;
+}
+
+#square4{
+	position:fixed;
+	width: 30px;
+    height: 220px;
+     opacity:0.3;
+    background:gold;
+    left: 200px;
+    bottom: 130px;
+}
+
+#square5{
+	position:fixed;
+	width: 200px;
+    height: 400px;
+    opacity:0.3;
+    background:gold;
+    right: 20px;
+    top: 90px;
+}
+
+#square6{
+	position:fixed;
+	width: 60px;
+    height: 90px;
+    
+    background:gold;
+    right: 120px;
+    bottom: 600px;
+}
+
